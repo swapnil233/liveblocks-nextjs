@@ -12,6 +12,7 @@
     "@lexical/react": "^0.12.2",
     "@lexical/yjs": "^0.12.2",
     "@liveblocks/client": "^1.4.6",
+    "@liveblocks/node": "^1.4.6",
     "@liveblocks/react": "^1.4.6",
     "@liveblocks/yjs": "^1.4.6",
     "@types/node": "20.8.6",
